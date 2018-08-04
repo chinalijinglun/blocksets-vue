@@ -1,0 +1,23 @@
+{
+  "name": "chaosui-vue",
+  "version": "1.0.0",
+  "description": "A Simple Vue.js UI Toolkit for Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChaosXu2016/chaosui-vue.git"
+  },
+  "keywords": [
+    "vue",
+    "ui"
+  ],
+  "author": "xuchao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChaosXu2016/chaosui-vue/issues"
+  },
+  "homepage": "https://github.com/ChaosXu2016/chaosui-vue#readme"
+}
