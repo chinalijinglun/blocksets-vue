@@ -8,6 +8,8 @@ cd example
 
 yarn install
 
+yarn link chaosui-vue
+
 yarn run serve
 ```
 ## install
