@@ -8,11 +8,11 @@ cd example
 
 yarn install
 
-yarn link chaosui-vue
+yarn link blocksets-vue
 
 yarn run serve
 ```
 ## install
 ```bash
-yarn add chaosui-vue
+yarn add blocksets-vue
 ```
