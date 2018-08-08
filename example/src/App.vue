@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
-    <cu-test></cu-test>
+    <bst-date-picker></bst-date-picker>
   </div>
 </template>
 
