@@ -4,7 +4,8 @@
   "description": "A Simple Vue.js UI Toolkit for Web",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "yarn run test:js",
+    "test:js": "karma start karma.conf.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +20,17 @@
   "bugs": {
     "url": "https://github.com/ChaosXu2016/blocksets-vue/issues"
   },
-  "homepage": "https://github.com/ChaosXu2016/blocksets-vue#README"
+  "homepage": "https://github.com/ChaosXu2016/blocksets-vue#README",
+  "devDependencies": {
+    "jasmine-core": "^3.2.0",
+    "karma": "^2.0.5",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-firefox-launcher": "^1.1.0",
+    "karma-jasmine": "^1.1.2",
+    "karma-requirejs": "^1.1.0",
+    "karma-safari-launcher": "^1.0.0",
+    "karma-webpack": "^3.0.0",
+    "requirejs": "^2.3.5",
+    "webpack": "^4.16.5"
+  }
 }
